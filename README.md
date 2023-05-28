@@ -1,6 +1,6 @@
-This Project is Created by Apeksha Kulkarni
+Created by Apeksha Kulkarni
 # Food_Ordering_System
-An online food ordering system allows your business to accept and manage orders placed online for delivery or takeaway. Customers browse a digital menu, either on an app or website and place and pay for their order online.
+I've Use Django Fremwork for creating An online food ordering system this can allows your business to accept and manage orders placed online for delivery or takeaway. Customers browse a digital menu, either on an app or website and place and pay for their order online.
 
 
 # Run the Following Commands on Your Terminal
