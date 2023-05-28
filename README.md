@@ -11,4 +11,5 @@ An online food ordering system allows your business to accept and manage orders 
 
 # ADMIN 
 For Admin Account, please create one with superuser!
+
 python manage.py createsuperuser
